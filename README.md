@@ -18,7 +18,7 @@ A modern, responsive landing page for **Prodesk IT** built using **HTML, CSS, an
 
 <h2>Here is the live URL :(https://sprint01.vercel.app/)
 
-<h2>Here is the recorded video link :</h2>(https://drive.google.com/file/d/1Z3NcCPn6O_HJupceJR1oZElfQOQ9cJAp/view)
+<h2>Here is the recorded video link :(https://drive.google.com/file/d/1Z3NcCPn6O_HJupceJR1oZElfQOQ9cJAp/view)
 
 ## 📸 ScreenShots
 
