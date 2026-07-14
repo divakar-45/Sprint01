@@ -4,7 +4,7 @@ A modern, responsive landing page for **Prodesk IT** built using **HTML, CSS, an
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -14,19 +14,19 @@ A modern, responsive landing page for **Prodesk IT** built using **HTML, CSS, an
 
 
 
-## 📸  Links
+##   Links
 
 <h2>Here is the live URL :</h2>(https://sprint01.vercel.app/)
 
 <h2>Here is the recorded video link :</h2>(https://drive.google.com/file/d/1Z3NcCPn6O_HJupceJR1oZElfQOQ9cJAp/view)
 
-## 📸 ScreenShots
+##  ScreenShots
 
 <img width="1891" height="912" alt="Screenshot 2026-07-13 234551" src="https://github.com/user-attachments/assets/8fc3f961-a21e-472d-b52a-91a08183e899" />
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Responsive navigation bar
 * Mobile-friendly hamburger menu
@@ -41,4 +41,4 @@ A modern, responsive landing page for **Prodesk IT** built using **HTML, CSS, an
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star!
+ If you found this project helpful, consider giving it a star!
