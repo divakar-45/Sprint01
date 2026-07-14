@@ -12,13 +12,13 @@ color: #ffffff;
 
 --card-bg: #f3f46;
     
---nav-bg: rgba(255, 255 255 0.95);
+--nav-bg: rgba(255, 255, 255, 0.95);
 
 --border-color: #e5e7eb;
 
---shadow-md: 0 4px 6px -1px rgba(0 0 0 0.1) 0 2px 4px -1px rgba(0 0 0 0.06);
+--shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 
---shadow-lg: 0 20px 40px rgba(0,0,0,0.1);
+--shadow-lg: 0 20px 40px rgba(0, 0, 0, 0.1);
 
 --footer-bg: #f3f4f6;
 
@@ -305,7 +305,7 @@ text-align: center;
 
 display: grid;
 
-grid-template-columns: repeat(auto-fit, minmax(300px 1fr));
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 
 gap: 2.5rem;
 
@@ -341,7 +341,7 @@ box-shadow: var(--shadow-md);
 
 }
 
-.dark-mode.service-card:hover {
+.dark-mode .service-card:hover {
 
 box-shadow: var(--shadow-lg);
 
